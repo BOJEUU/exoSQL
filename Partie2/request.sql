@@ -23,5 +23,5 @@ DROP TABLE libraries;
 --exo9
 DROP TABLE ide;
 --tp
-
+CREATE TABLE clients (id INT, lastname VARCHAR(255), firstname VARCHAR(255), birthDate DATE, address VARCHAR(255),firstPhoneNumber INT, secondPhoneNumber INT, mail VARCHAR(255));
 

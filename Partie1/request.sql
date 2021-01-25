@@ -11,5 +11,5 @@ DROP DATABASE languages;
 --exo6
 DROP DATABASE IF NOT EXISTS frameworks;
 --exo7
-DROP DATABASE IF NOT EXISTS languages;
+DROP DATABASE IF NOT EXISTS languages; 
 
